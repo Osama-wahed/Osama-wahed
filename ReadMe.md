@@ -1,0 +1,21 @@
+# 💫 About Me:
+Hi, I'm **Osama Wahed**, a passionate programmer and aspiring **Full Stack .NET Developer**.<br><br>My journey in programming started with curiosity and gradually turned into a real passion for building applications and understanding how things work behind the scenes.<br><br>So far, I have learned and practiced:<br><br>* **C# & .NET**<br>* **Object-Oriented Programming (OOP)**<br>* **Data Structures**<br>* **HTML**<br>* **CSS**<br>* **Java**<br>* **JavaScript**<br>* **SQL & Databases**<br><br>I'm currently continuing my journey by learning:<br><br>* **Bootstrap**<br>* **ASP.NET Core**<br>* **.NET MAUI**<br><br>My goal is to become a **Full Stack .NET Developer**, capable of building complete applications from the frontend to the backend and database.<br><br>I enjoy solving problems, writing code, learning new technologies, and turning ideas into real projects. I know that becoming a strong developer takes time and continuous learning, and I'm ready to keep improving one step at a time.<br><br>**This is just the beginning. 🚀**<br><br>> **Learn. Build. Break. Fix. Improve. Repeat.**<br>><br>> **My goal isn't just to write code — it's to understand it and build something meaningful with it.**<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osama-wahed-031741271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osamawahed62@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Osama-wahed&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Osama-wahed&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Osama-wahed&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+[![](https://komarev.com/ghpvc/?username=Osama-wahed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
